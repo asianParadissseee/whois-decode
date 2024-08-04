@@ -20,6 +20,7 @@
     color: #222222;
 }
 
+
 @media screen and (max-width: 904px) {
     #banner .container {
         flex-direction: column;
